@@ -1,0 +1,27 @@
+{
+  "name": "reversi-dani",
+  "version": "0.0.1",
+  "description": "This is a web version of the game reversi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/dnewmie/reversi-dani.git)"
+  },
+  "keywords": [
+    "reversi",
+    "dani",
+    "newman",
+    "dnewmie",
+    "hci",
+    "technology"
+  ],
+  "author": "Dani Newman (@dnewmie)",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "socket.io": "^4.6.1"
+  }
+}
