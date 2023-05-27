@@ -21,6 +21,7 @@
   "author": "Dani Newman (@dnewmie)",
   "license": "GPL-3.0-or-later",
   "dependencies": {
+    "jquery": "^3.7.0",
     "node-static": "^0.7.11",
     "socket.io": "^4.6.1"
   }
