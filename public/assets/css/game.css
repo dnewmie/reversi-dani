@@ -1,14 +1,14 @@
 body {
-    background-color: rgb(170, 218, 170);
+    background-color: rgb(255, 255, 255);
   }
 
   .headerrow, #messagePane {
-    background-color: rgb(224, 243, 224);
+    background-color: rgb(238, 243, 252);
   }
 
   .join_room_response,
   .left_room_response {
-    background-color: rgb(247, 247, 247);
+    background-color: rgb(255, 255, 255);
   }
 
   .chat_message {
@@ -23,7 +23,7 @@ body {
   }
 
   table#game_board td {
-    background-color: powderblue;
+    background-color: rgb(201, 234, 0);
     border: 1px solid black;
     margin: 0px;
     padding: 0px;
